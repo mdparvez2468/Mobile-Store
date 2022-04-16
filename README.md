@@ -2,16 +2,17 @@
 
 
 
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-                <iframe width="420" height="315"
-src="https://www.youtube.com/embed/7j3GWoMKYEU">
-</iframe>
-<h2>Example of code</h2>
-            </div>
-        </div>
-    </div>
-</pre>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <iframe width="100%" height="315"
+    src="https://www.youtube.com/embed/7j3GWoMKYEU">
+    </iframe>
+</body>
+</html>
