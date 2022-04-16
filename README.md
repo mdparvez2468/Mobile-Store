@@ -1,18 +1,4 @@
 # Mobile-Store
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <iframe width="100%" height="315"
-    src="https://www.youtube.com/embed/7j3GWoMKYEU">
-    </iframe>
-</body>
-</html>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7j3GWoMKYEU/0.jpg)](https://www.youtube.com/watch?v=7j3GWoMKYEU)
