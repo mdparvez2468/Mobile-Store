@@ -1,4 +1,4 @@
-# Mobile Store ## (Ecommerce Based Web Application)
+# Mobile Store (E-commerce Based Web Application)
 ## Project Show Video:
 
 
