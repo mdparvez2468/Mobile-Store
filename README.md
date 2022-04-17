@@ -7,7 +7,7 @@
 
 ## Team Informations:
 Rashiduzzaman--191-15-2655 <br/>
-Md. Parvez--191-15-2468
-Bonna Akter--191-15-2585
-Fazley Atif Maruf--191-15-2349
+Md. Parvez--191-15-2468 <br/>
+Bonna Akter--191-15-2585 <br/>
+Fazley Atif Maruf--191-15-2349 <br/>
 Mahsuba Meherunnesa Samia--191-15-2456
